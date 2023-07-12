@@ -1,0 +1,42 @@
+Name: Siddhant Bagga
+USC ID: 4495959903
+News site crawled: latimes.com
+Number of threads: 7
+
+Fetch Statistics
+================
+# fetches attempted: 19992
+# fetches succeeded: 19697
+# fetches failed or aborted: 295
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2847119
+# unique URLs extracted: 362715
+# unique URLs within News Site: 205051
+# unique URLs outside News Site: 157664
+
+Status Codes:
+=============
+200 OK: 19697
+301 Moved Permanently: 154
+302 Found: 39
+307 Temporary Redirect: 86
+404 Not Found: 16
+
+File Sizes:
+===========
+< 1KB: 30
+1KB ~ <10KB: 219
+10KB ~ <100KB: 749
+100KB ~ <1MB: 17764
+>= 1MB: 74
+
+Content Types:
+==============
+image/png: 307
+text/html: 18390
+image/jpeg: 120
+image/gif: 1
+image/svg+xml: 17
+image/webp: 1
