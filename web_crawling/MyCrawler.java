@@ -1,4 +1,4 @@
-package crawler_hw2;
+package web_crawling;
 
 
 import java.util.Set;
